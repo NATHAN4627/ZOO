@@ -1,0 +1,8 @@
+{
+  "workbench.editor.decorations.badges": false,
+  "prettier.prettierPath": "./node_modules/prettier/index.mjs",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  }
+}
